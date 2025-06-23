@@ -1,7 +1,22 @@
 # Roadmap-de-Dev-Junior-Base-SOLIDA
 
 
-Roadmap de Dev Júnior: Base SÓLIDA.
+Lista base júnior segundo a opinião do Lucas Montano:
+
+1) Git - Conhecimento em versionamento de código.
+2) Comandos de terminal
+3) Estrutura de dados e algoritmos
+4) Proxy VPN e conexão SSH
+5) Consultas a API Rest
+6) Conhecimento básico em WebSocket - Qual a diferença entre um WebSocket e um Long Polling?
+7) GraphQL
+8) Parsear estruturas de dados - Json e XML
+9) Básico de pelo menos 2 paradigmas de programação
+10) Base de dados - Queries no SQL
+11) Base de dados - NoSQL
+12) Aprender inglês
+
+  Explicando cada 1 com livros!!
 
 1. Git
 Para dominar o Git, um único livro é altamente recomendado:
